@@ -1,4 +1,4 @@
-# 🚀 Employees and Projects Database Management System
+# 🚀 Workforce Management System
 
 ## 📌 Introduction
 Nexus Innovations, a cutting-edge technology firm, is tackling the challenge of managing multiple projects efficiently. To streamline project tracking, employee assignments, and resource allocation, we have designed a **centralized database system** that ensures real-time data access and project transparency.
